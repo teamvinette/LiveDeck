@@ -129,7 +129,7 @@ The Python script listens for this message and shuts down cleanly.
 
 - **Action:** Internal > System: Run shell path (local)
 - **Path:** `/path/to/start_livedeck.sh`  
-  _(You'll find an example `.sh` startup script in this repository)_
+  _(You'll find an example `.sh` startup script in this repository) [⬇ Download .sh startup script](start_livedeck.sh)_
 - **Timeout:** `5000ms`
 - **Target Variable:** none
 
