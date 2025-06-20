@@ -151,7 +151,7 @@ The Python script listens for this message and shuts down cleanly.
 
 ## 💡 About the author
 
-> I’m a 22-year-old music producer who loves combining music production with tech & automation.  
+> I’m a 22-year-old music producer who is trying to create ways, when there havn't been any.
 > Feel free to open issues or contribute — pull requests are always welcome!
 
 ---
